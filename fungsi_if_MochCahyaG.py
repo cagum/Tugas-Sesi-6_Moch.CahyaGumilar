@@ -1,4 +1,6 @@
-"DISNEY ISLAND"
+print('Tugas_Sesi6')
+print('Mochammad Cahya Gmilar')
+print("DISNEY ISLAND")
 print('Silahkan isi form di bawah ini untuk verifikasi umur anda')
 print('=====================================================')
 
@@ -28,7 +30,7 @@ elif age < ages[3]:
     else:
         print('Tarif Masuk Rp. ',price[2])
 else:
-    print('Tarif Masuk Rp. ',int(price[3]))
+    print('Tarif Masuk Rp.',(price[3]))
 
 
 
